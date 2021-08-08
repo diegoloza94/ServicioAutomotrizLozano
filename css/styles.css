@@ -1,0 +1,124 @@
+body {
+    background-image: url("img/home.jpg");
+}
+
+/* navbar-custom */
+
+.navbar-custom {
+    background-color: rgb(60, 90, 150);
+}
+
+.middle-custom {
+    background-color: #fff;
+}
+
+.shadow-box-fill {
+    display: block;
+    background-color: #fff;
+    width: 100%;
+    border-radius: 3px;
+    overflow: hidden;
+    transition: box-shadow 0.3s;
+    margin-bottom: 10px;
+    z-index: 99;
+    border: 1px solid #e7ebeb;
+}
+
+/* sign up */
+
+#sign-up {
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+/* sign up 2 */
+
+#sign-up2 {
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+/* login */
+
+#login {
+    margin-top: 5%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+
+/*admin*/
+
+#division {
+    display: flex;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#a112 {
+    width: -moz-available;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+#a111 {
+    width: -webkit-fill-available;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+#divisionInvoice {
+    display: flex;
+    margin-right: 5%;
+    margin-left: 5%;
+    font-size: smaller;
+    background-color: snow;
+}
+
+
+/*customer*/
+
+#division {
+    display: flex;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#a111 {
+    width: -webkit-fill-available;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+#customer_pages {
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+
+/* Clear floats after the columns */
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+
+#sign-up3 {
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+/* about */

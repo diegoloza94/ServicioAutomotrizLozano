@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -71,89 +72,37 @@
         </nav>
 
         <div class="row text-center">
-            <div class="col-md-10 p-lg-4 mx-auto my-3">
-                <h1 class="font-weight-bold mb-6 text-white">Servicio Automotriz Lozano</h1>
-                <a class="btn btn-outline-secondary btn-lg py-lg-2 m-md-4" href="services.php"> OUR SERVICES</a> <a class="btn btn-light btn-lg shadow-sm py-lg-2 px-lg-2" href="login.php">BOOK AN APPOINMENT</a>
-            </div>
-        </div>
+            <div class="col-lg-4 col-md-3">
+            <div class="col-md-9 p-lg-2 mx-auto my-1">
 
-        <!-- comment <footer class="middle-custom text-center text-white">-->
-            <!-- Grid container -->
-            <div class="container p-3 text-center">
-                <section class="mb-2">
-                    <div class="row text-center">
-                        <div class="col-md-10 p-md-1 mx-auto m-0">
-                            <h3 class="font-weight-bold mb-3 text-white">How to hire our services?</h3>
-                        </div>
-                    </div>
-                    <div>
-                        <a class="btn btn-outline-light btn-floating py-lg-4 p-lg-4 m-4" href="#" role="button">
-                            <i class="fa fa-calendar-check"></i> 
-                            <div>
-                                1.
-                            </div> 
-                            <div >
-                                Book
-                            </div>
-                            <div >
-                                Appoinment
-                            </div></a>
-                        <a class="btn btn-outline-light btn-floating py-lg-4 p-lg-5 m-4" href="#" role="button"
-                           ><i class="fa fa-car"></i
-                            >
-                            <div>
-                                2.
-                            </div> 
-                            <div >
-                                Auto 
-                            </div>
-                            <div >
-                                Check
-                            </div></a>
-                        <a class="btn btn-outline-light btn-floating py-lg-4 p-lg-5 m-4" href="#" role="button"
-                           ><i class="fa fa-wrench"></i
-                            >
-                            <div>
-                                3.
-                            </div> 
-                            <div >
-                                Auto 
-                            </div>
-                            <div >
-                                Repair
-                            </div></a>
-                        <a class="btn btn-outline-light btn-floating py-lg-4 p-lg-4 m-4" href="#" role="button"
-                           ><i class="fa fa-file"></i
-                            >
-                            <div>
-                                4.
-                            </div> 
-                            <div >
-                                Give 
-                            </div>
-                            <div >
-                                Feedback
-                            </div></a>
-                        <a class="btn btn-outline-light btn-floating py-lg-4 p-lg-4 m-4" href="#" role="button"
-                           ><i class="fa fa-smile"></i
-                            >
-                            <div>
-                                5.
-                            </div> 
-                            <div >
-                                Customer 
-                            </div>
-                            <div >
-                                Happy
-                            </div></a>
-                    </div>
-                </section>
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fa fa-car"></i> Car is not starting Inspection</a>
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-oil-can"></i> Change Oil and Filter</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fa fa-car"></i> Brake Pads Replacement</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-tools"></i> Timing Belt Replacement</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-tools"></i> Pre-purchase Car Inspection</a>
+                </div>
+                </div>
+            <div class="col-lg-4 col-md-3">
+                <div class="col-md-9 p-lg-2 mx-auto my-1">
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-car-battery"></i> Battery Replacement</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-tools"></i> AC Compressor Replacement</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-tools"></i> Starter Replacement</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-tools"></i> Alternator Replacement</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-tools"></i> Serpentine/Drive Belt Replacement</a>  
+                 </div>
+                </div>
+             <div class="col-lg-4 col-md-3">
+                <div class="col-md-9 p-lg-2 mx-auto my-1">
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-tools"></i> Spark Plugs Replacement</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-hand-holding-water"></i> Water Pump Replacement</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-gas-pump"></i> Fuel Pump Replacement</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-tools"></i> AC Recharge</a> 
+                <a class="btn btn-outline-light btn-floating py-lg-2 p-lg-4 m-4" href="#"><i class="fas fa-tools"></i> Radiator Replacement</a> 
             </div>
-        <!--</footer>-->
+                                 </div>
+                </div>
 
-    </body>
-    
-            <footer class="navbar-custom text-center text-white">
+        <footer class="navbar-custom text-center text-white">
             <!-- Grid container -->
             <div class="container p-4">
                 <section class="mb-4">
@@ -174,5 +123,6 @@
                 </div>
                 <!-- Copyright -->
         </footer>
+    </body>
 
 </html>
