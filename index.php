@@ -149,12 +149,10 @@
                     </div>
                 </section>
             </div>
-        <!--</footer>-->
 
     </body>
     
             <footer class="navbar-custom text-center text-white">
-            <!-- Grid container -->
             <div class="container p-4">
                 <section class="mb-4">
                     <!-- Linkedin -->
