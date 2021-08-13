@@ -4,10 +4,6 @@ Admin Login:
 admin@gmail.com
 
 Admin Password Login:
-cct
+admin12345
 
-Customer Login:
-user@gmail.com
-
-Customer Password Login:
-cct
+https://youtu.be/1BZOA_AxrKo (Video Official)
