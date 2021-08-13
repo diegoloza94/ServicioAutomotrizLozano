@@ -1,6 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 5.1.1
 -- https://www.phpmyadmin.net/
+-- Diego Lozano Elizondo 2020411
 --
 -- Servidor: 127.0.0.1
 -- Tiempo de generación: 13-08-2021 a las 02:57:51
